@@ -1,6 +1,6 @@
 {
-  "id": "NoClipBorders",
-  "name": "NoClipBorders",
+  "id": "noclipborders",
+  "name": "NoClipBorders Copy file to clipboard",
   "version": "0.1.0",
   "minAppVersion": "1.5.0",
   "description": "Copy file to clipboard",
