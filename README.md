@@ -1,6 +1,6 @@
 # NoClipBorders Obsidian Plugin
 
-Copy a file to the Windows clipboard from Obsidian so you can paste it outside Obsidian.
+Copy a file to the system clipboard from Obsidian so you can paste it outside Obsidian.
 
 ## Features
 - Right-click a file and choose `Copy as file`
